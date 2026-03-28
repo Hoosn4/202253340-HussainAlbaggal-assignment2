@@ -6,10 +6,10 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 This project is an evolution of my foundation portfolio (Assignment 1), now enhanced with interactive features and robust data handling. It serves as a professional showcase of my work as a Software Engineering student at King Fahd University of Petroleum and Minerals (KFUPM).
 
-## 📋 Assignment 2 Requirements Checklist
+##  Assignment 2 Requirements Checklist
 This project fulfills all criteria for Assignment 2 as follows:
 
 | Requirement | Implementation Status | Features Added |
@@ -22,7 +22,7 @@ This project fulfills all criteria for Assignment 2 as follows:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Structure:** Semantic HTML5 for improved accessibility and SEO
 * **Styling:** CSS3 Custom Properties (Variables) for the global theme engine and Flexbox for responsive design
 * **Logic:** Vanilla JavaScript (ES6+) for DOM manipulation and the Intersection Observer API for scroll animations
@@ -30,17 +30,15 @@ This project fulfills all criteria for Assignment 2 as follows:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```text
-assignment-2/
+202253340-HussainAlbaggal-assignment2/
 ├── README.md                      # Project documentation and guide
 ├── index.html                     # Main entry point with semantic HTML5
 ├── css/
 │   └── styles.css                 # Custom properties and responsive layout
 ├── js/
 │   └── script.js                  # Filtering, theme, and validation logic
-├── assets/
-│   └── images/                    # Project and profile assets
 ├── docs/
 │   ├── ai-usage-report.md         # AI integration details
 │   └── technical-documentation.md # Feature logic and architecture
@@ -49,7 +47,7 @@ assignment-2/
 
 -----
 
-## 💻 Installation & Running Locally
+##  Installation & Running Locally
 
 ### Prerequisites
 
@@ -80,7 +78,7 @@ Then visit: `http://localhost:8000`
 
 -----
 
-## 🌟 Interactive Features & User Guide
+##  Interactive Features & User Guide
 
 ### 1\. Persistent Theme Engine
 
@@ -106,11 +104,7 @@ Then visit: `http://localhost:8000`
 ## 🤖 AI Integration Summary
 
 AI tools were used as productivity amplifiers for code optimization and accessibility audits:
-
-  * **GitHub Copilot:** Assisted in structuring the CSS variable system for theming
-  * **Claude AI:** Used for debugging the `localStorage` error handling and refining high-contrast color palettes for accessibility
-
-For a full breakdown, see the `docs/ai-usage-report.md` and the `docs/technical-documentation.md`.
+- For a full breakdown, see the `docs/ai-usage-report.md` and the `docs/technical-documentation.md`.
 
 -----
 
