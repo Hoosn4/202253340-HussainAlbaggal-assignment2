@@ -25,9 +25,6 @@ This project fulfills all criteria for Assignment 2 as follows:
 ##  Tech Stack
 * **Structure:** Semantic HTML5 for improved accessibility and SEO
 * **Styling:** CSS3 Custom Properties (Variables) for the global theme engine and Flexbox for responsive design
-* **Logic:** Vanilla JavaScript (ES6+) for DOM manipulation and the Intersection Observer API for scroll animations
-* **Icons:** Font Awesome 6.4 for professional iconography
-
 ---
 
 ##  Project Structure
@@ -84,11 +81,12 @@ Then visit: `http://localhost:8000`
 
   * **How to use:** Click the "🌙 Dark Mode" button in the sidebar.
   * **Technical Detail:** Your preference is saved via the `localStorage` API. The site uses `try/catch` logic to prevent crashes if browser storage is restricted.
+    - This will let the browser save your theme preference
 
 ### 2\. Real-Time Project Filtering
 
   * **How to use:** Scroll to the Projects section and select "Web Development" or "Machine Learning."
-  * **UX Feedback:** Cards filter with a smooth fade animation. If a category is empty, a "No projects found" message is displayed.
+  * **UX Feedback:** Cards filter with a smooth fade animation.
 
 ### 3\. Smart Contact Form
 
@@ -97,7 +95,7 @@ Then visit: `http://localhost:8000`
 
 ### 4\. Time-Aware Greeting
 
-  * **Interaction:** The header dynamically greets you (Morning / Afternoon / Evening) based on your system's current time.
+  * **Interaction:** The header dynamically greets visitors (Morning / Afternoon / Evening) based on your system's current time.
 
 -----
 
